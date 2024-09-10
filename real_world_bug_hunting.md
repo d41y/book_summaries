@@ -13,4 +13,11 @@ __Keylearnings__
 - HTTP ist stateless, also jede Anfrage wird wie eine komplett neue Anfrage behandelt
     - um Probleme, die damit einhergehen (jedes mal neu anmelden) zu vermeiden -> bspw. Cookies
 
-test
+## HTTP Parameter Pollution
+
+__Keylearnings__
+
+## CSRF
+
+__Keylearnings__
+
